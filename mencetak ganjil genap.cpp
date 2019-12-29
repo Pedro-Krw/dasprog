@@ -4,7 +4,7 @@ main ()
 {
 	int mace;
 	  system ("color 02");
-	 printf("silahkan maukan nilai  :");
+	 printf("silahkan masukan nilai  :");
 	  scanf ("%d",&mace);
 	   
 	   if(mace%2==0)
