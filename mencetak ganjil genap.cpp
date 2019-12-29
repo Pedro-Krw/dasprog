@@ -1,5 +1,6 @@
 #include "stdio.h"
 #include "windows.h"
+// tugas praktikum modul 0
 main ()
 {
 	int mace;
