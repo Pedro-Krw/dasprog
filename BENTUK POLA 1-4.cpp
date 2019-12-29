@@ -41,7 +41,7 @@
      int bsapi,brusa,bkuda,tikus;
       printf("masukan nilai :");
        scanf("%d",&bsapi);
-       printf("POLA 3\n");
+       printf("POLA ke 3\n");
         Sleep(80);
        for (brusa=1;brusa<=bsapi;brusa++){
        	
@@ -59,6 +59,7 @@
 	   }
 	  	
      int csapi,crusa,ckuda,ctikus;
+	 printf("POLA KE 4\n");
       printf("masukan nilai :");
        scanf ("%d",&csapi);
         Sleep(80);
