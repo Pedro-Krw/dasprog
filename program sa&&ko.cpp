@@ -20,7 +20,7 @@
  	   	 	 printf(" ");
  	   	 	
 			 }
-			
+	/*pembagian*/		
  	   
  	   	printf("\n");
  	   	
